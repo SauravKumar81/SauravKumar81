@@ -1,5 +1,3 @@
-SauravKumar81/README.md
-
 Full Stack Developer (MERN, React.js, Node.js, MongoDB, Java, Python, ABAP, SQL)
 
 Currently learning about Applied AI, Cloud Computing, and SAP Technologies.
